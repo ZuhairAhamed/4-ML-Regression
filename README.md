@@ -10,6 +10,8 @@ Random Forest Regression (10 trees)
 Support Vector Regression (SVR) with RBF kernel
 You can select any model using the sidebar and instantly visualize its performance and make predictions.
 
+APP URL : https://4-ml-regression-salary-prediction.streamlit.app/
+
 
 📊 **Startup Profit Prediction App**
 A Streamlit web application that uses Multiple Linear Regression to predict the profit of a startup based on its R&D spend, administration cost, marketing spend, and state.
@@ -26,3 +28,5 @@ Displays the regression equation
 Shows actual vs predicted profits
 Uses One-Hot Encoding to handle categorical data
 Clean and responsive UI using Streamlit
+
+APP URL : https://4-ml-regression-startup-profit-prediction.streamlit.app/
